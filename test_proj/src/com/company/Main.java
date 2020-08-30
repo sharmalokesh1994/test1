@@ -13,7 +13,11 @@ public class Main {
 
         System.out.println("2 in Lokesh Proj2");
 
+        System.out.println("Lokesh full Proj1");
+
         System.out.println("2nd in project1 Lokesh Proj1");
+
+        System.out.println("3 in project1 Lokesh Proj1");
 
 
     }
