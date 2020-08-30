@@ -11,6 +11,8 @@ public class Main {
 
         System.out.println("Lokesh Proj1");
 
+        System.out.println("2nd in project1 Lokesh Proj1");
+
 
     }
 }
