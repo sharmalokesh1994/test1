@@ -9,7 +9,9 @@ public class Main {
 
         System.out.println("Hi");
 
-        System.out.println("Lokesh Proj1");
+        System.out.println("Lokesh Proj2");
+
+        System.out.println("2 in Lokesh Proj2");
 
         System.out.println("2nd in project1 Lokesh Proj1");
 
